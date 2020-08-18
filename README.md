@@ -2,7 +2,7 @@
 
 I'm Vanessa, a web dev learner and I've been building loads of cool stuff. You can check it out on my website :point_down:
 
-![my site](https://github.com/vanessacor/vanessacor/blob/master/images/my-site.png)
+![my site](https://github.com/vanessacor/vanessacor/blob/master/images/my-site.png)(http://vanessapoppe.me)
 
 ## Skills
 
