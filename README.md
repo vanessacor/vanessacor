@@ -1,11 +1,7 @@
 # Hello Everyone :wave:
 
-I'm Vanessa, a web dev learner and I've been building loads of cool stuff. You can check it out on my website :point_down:
+I'm [Vanessa Poppe](https://vanessapoppe.me/), a web dev learner, currently doing a full stack bootcam at [FactoriaF5](http://www.factoriaf5.org/). 
 
-[![my site][1]][2]
-
-[1]: https://github.com/vanessacor/vanessacor/blob/master/images/my-site.png
-[2]: http://vanessapoppe.me
 
 ## Skills
 
