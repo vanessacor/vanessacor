@@ -6,5 +6,5 @@ I'm [Vanessa Poppe](https://vanessapoppe.me/), a web dev learner, currently doin
 ## Skills
 
 ![html logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-html-5-50.png) ![css logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-css3-50.png) ![javascript logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-javascript-50.png) ![nodejs logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-nodejs-50.png) ![sass logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-sass-50.png) ![react logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-react-50.png)
-![php logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-php-logo-50.png)
+![php logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-php-logo-40.png)
 ![laravel logo](https://github.com/vanessacor/vanessacor/blob/master/images/icons8-laravel-50.png)
